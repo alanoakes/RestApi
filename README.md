@@ -1,4 +1,6 @@
-# Build A Restful Api With Node.js Express & MongoDB
+# Rest API
+
+Build A Restful Api With Node.js Express & MongoDB
 
 1. [Resources](#01)
 2. [Overview](#02)
