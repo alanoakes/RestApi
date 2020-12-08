@@ -30,7 +30,10 @@ will give you a good idea of how these technologies work well together.
 
 ## 03. Steps Taken <a name="03"></a>
 
-* [ ] `npm init -y`
-* [ ] `npm i express nodemon`
-* [ ] make start call in package.json: `"start": "nodemon app.js"`
+* [x] `npm init -y`
+* [x] `npm i express nodemon`
+* [x] make start call in package.json: `"start": "nodemon app.js"`
+* [x] `touch app.js`
+* [x] follow [express.js quick start guide](http://expressjs.com/en/starter/hello-world.html)
+* [ ] connect to mongo and mongoose with [this tutorial](https://zellwk.com/blog/local-mongodb/)
 * [ ] 
