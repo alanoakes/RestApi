@@ -30,4 +30,7 @@ will give you a good idea of how these technologies work well together.
 
 ## 03. Steps Taken <a name="03"></a>
 
-
+* [ ] `npm init -y`
+* [ ] `npm i express nodemon`
+* [ ] make start call in package.json: `"start": "nodemon app.js"`
+* [ ] 
